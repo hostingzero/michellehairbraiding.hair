@@ -1,0 +1,97 @@
+
+.depicter-revert .depicter-1-element-11{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-11 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-element-12{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-12 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-element-94{
+	font-size:52px;
+	text-align:center;
+	color:#FA8702;
+	font-family:"Luxurious Script";
+	font-weight:400;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-56 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-99{
+	font-size:52px;
+	text-align:center;
+	color:#FA8702;
+	font-family:"Luxurious Script";
+	font-weight:400;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-29 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-103{
+	font-size:52px;
+	text-align:center;
+	color:#FA8702;
+	font-family:"Luxurious Script";
+	font-weight:400;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-62 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-105 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-107 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-109 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-111 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-113 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-1-element-11 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-1-element-12 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-element-94{
+	color:#06EE68;
+}
+.depicter-revert .depicter-1-section-56 .depicter-section-background{
+	background-color:#000000;
+}
+.depicter-revert .depicter-1-element-99{
+	color:#06EE68;
+}
+.depicter-revert .depicter-1-section-29 .depicter-section-background{
+	background-color:#000000;
+}
+.depicter-revert .depicter-1-element-103{
+	color:#06EE68;
+}
+.depicter-revert .depicter-1-section-62 .depicter-section-background{
+	background-color:#000000;
+}
+
+}
